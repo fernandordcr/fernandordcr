@@ -1,7 +1,7 @@
 ### <Olá> Eu sou o Fernando Rodrigues da Cunha R.👋
 
 - 🔭 Trabalho com mídias sociais 
-- 🌱 Estou bacharelando publicidade e estudando html, css e JS
+- 🌱 Estou bacharelando em publicidade e estudando HTML5, CSS3 e JS
 - 😄 Aberto para oportunidades de emprego! 
 
 <div align="center">
